@@ -10,7 +10,4 @@ Works best in combination with a power amplifier and a low-pass filter.
 ### Schematic
 ![TS-DET1 schematic](images/schematic-TS-DET1.png)
 
-
-Written for Arduino Nano or Arduino Uno.
-
 Project info at [turiscandurra.com/circuits](https://turiscandurra.com/circuits)
